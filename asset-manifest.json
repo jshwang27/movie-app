@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/movie-app/static/js/main.deb1e40c.js",
+    "index.html": "/movie-app/index.html",
+    "main.deb1e40c.js.map": "/movie-app/static/js/main.deb1e40c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.deb1e40c.js"
+  ]
+}
